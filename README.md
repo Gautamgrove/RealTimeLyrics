@@ -50,7 +50,7 @@
     <h2>Installation and Setup</h2>
     <ol>
       <li>Clone the repository:</li>
-      <pre><code>git clone https://github.com/your-username/Real-Time-Lyrics.git</code></pre>
+      <pre><code>git clone https://github.com/Gautamgrove/RealTimeLyrics.git</code></pre>
       <li>Navigate to the project directory:</li>
       <pre><code>cd Real-Time-Lyrics</code></pre>
       <li>Install the required dependencies:</li>
@@ -75,7 +75,7 @@
     <ul>
       <li>Fork the repository</li>
       <li>Clone your fork:</li>
-      <pre><code>git clone https://github.com/your-username/Real-Time-Lyrics.git</code></pre>
+      <pre><code>git clone https://github.com/Gautamgrove/RealTimeLyrics.git</code></pre>
       <li>Make your changes and create a pull request.</li>
     </ul>
   </section>
