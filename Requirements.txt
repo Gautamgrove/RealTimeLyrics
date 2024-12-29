@@ -1,0 +1,5 @@
+
+pyaudio
+sounddevice 
+requests
+numpy
